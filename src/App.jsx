@@ -12,7 +12,7 @@ function App() {
       <ProductTitle />
       <div className="spacer" />
       <CardFlip />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
